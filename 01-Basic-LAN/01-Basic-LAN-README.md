@@ -20,7 +20,7 @@ This lab simulates a small LAN of 9 devices  6 PCs, a server, a printer, and a s
 
 ## Topology
 
-<img src="./01-Basic-LAN/01-Basic-LAN-Topology.png" alt="Network Topology" height="600" width="600"/>
+<img src="./01-Basic-LAN-Topology.png" alt="Network Topology" height="600" width="600"/>
 
 All devices connect to a central **Cisco 2960-24TT switch (Switch0)**. Every device plugs directly into the switch, which acts as the central hub of communication — if a PC wants to talk to the printer, the data passes through Switch0 to get there. Green connection indicators confirm all links are active and the network is up.
 

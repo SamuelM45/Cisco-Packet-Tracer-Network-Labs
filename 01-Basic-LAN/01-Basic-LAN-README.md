@@ -154,4 +154,4 @@ This sends a message to every device on the network simultaneously — you shoul
 
 ---
 
-*Part of the [Cisco Packet Tracer Network Labs](./README.md) repo.*
+*Part of the [Cisco Packet Tracer Network Labs](../README.md) repo.*
